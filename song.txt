@@ -3,6 +3,4 @@ My second line of code
 The next line
 
 
-For feature branch
 
-For main branch
